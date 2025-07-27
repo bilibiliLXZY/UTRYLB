@@ -15,3 +15,9 @@ Undertale Red&amp;Yellow Last Breath版本发布用仓库（不准备开源）
 回合设计：LXZY
 
 着色器：LXZY（代码优化、转换与整合）, Shadertoy（代码搜集）
+
+原ULB, 灵感来源：Zerjox等
+
+UTRY： Shinix等（或 Team UTRY）
+
+UT: Toby Fox, Temmie Chang等
