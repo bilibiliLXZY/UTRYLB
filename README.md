@@ -24,3 +24,8 @@ Undertale Red&amp;Yellow Last Breath版本发布用仓库（不准备开源）
 UTRY： Shinix等（或 Team UTRY）
 
 UT: Toby Fox, Temmie Chang等
+
+
+### Disclaimer
+I made this program just for fun. Only for educational & studying use.
+Not used for commercial.
