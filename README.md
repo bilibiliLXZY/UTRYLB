@@ -28,4 +28,4 @@ UT: Toby Fox, Temmie Chang等
 
 ### Disclaimer
 I made this program just for fun. Only for educational & studying use.
-Not used for commercial.
+Not used for commercial but personal.
