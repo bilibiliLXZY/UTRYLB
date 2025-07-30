@@ -1,6 +1,8 @@
 # UTRYLB
 Undertale Red&amp;Yellow Last Breath版本发布用仓库（不准备开源）
 
+有点尬了（汗
+
 提交Issues来提交bug或建议等！
 （正在DEMO预发布）
 、
@@ -27,5 +29,12 @@ UT: Toby Fox, Temmie Chang等
 
 
 ### Disclaimer
-I made this program just for fun. Only for educational & studying use.
+I made this *game* just for fun. Only for educational & studying use.
+
+Not authorized by Shinix, Viviiyon or Team ULB. In fact, I am trying hard to get a permission.
+
+~~（Well... I am not very good at English cuz first im chinese sec im only 13 *during 2025*... also im not good at communicating... cuz ive depression...?）~~
+
+~~（Yea not kidding i have...）~~
+
 Not used for commercial but personal.
