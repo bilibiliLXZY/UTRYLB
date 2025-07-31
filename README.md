@@ -27,6 +27,12 @@ UTRY： Shinix等（或 Team UTRY）
 
 UT: Toby Fox, Temmie Chang等
 
+## 剧情
+---
+
+正在想awa
+
+---
 
 ### Disclaimer
 I made this *game* just for fun. Only for educational & studying use.
