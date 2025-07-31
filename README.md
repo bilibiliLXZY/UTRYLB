@@ -28,7 +28,6 @@ UTRY： Shinix等（或 Team UTRY）
 UT: Toby Fox, Temmie Chang等
 
 ## 剧情
----
 
 正在想awa
 
