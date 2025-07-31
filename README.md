@@ -27,7 +27,7 @@ UTRY： Shinix等（或 Team UTRY）
 
 UT: Toby Fox, Temmie Chang等
 
-## 剧情
+## 剧情 （可提交Issues来提供灵感/直接给剧情）
 
 正在想awa
 
