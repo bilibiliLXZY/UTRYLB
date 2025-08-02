@@ -30,7 +30,7 @@ UTRY： Shinix等（或 Team UTRY）
 
 UT: Toby Fox, Temmie Chang等
 
-## 剧情 （可提交Issues来提供灵感/直接给剧情）
+## 背景/角色设定？
 
 正在想awa
 
