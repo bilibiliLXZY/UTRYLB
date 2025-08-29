@@ -3,6 +3,8 @@ Undertale Red&amp;Yellow Last Breath版本发布用仓库（不准备开源）
 
 有点尬了（汗
 
+使用模板：znm2500/Undertale-Engine-Ultra
+
 提交Issues来提交bug或建议等！
 （正在DEMO预发布）
 
