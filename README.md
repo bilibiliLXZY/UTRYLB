@@ -12,6 +12,12 @@ Undertale Red&amp;Yellow Last Breath版本发布用仓库（不准备开源）
 
 （暂未统计完成，可提交Issues来申请（前提是你得参与进去），记得附上你的昵称（将写在这里））
 
+Referenced/Related games:
+1. Undertale R&Y by Team R&Y ----Extremely Appreciated to ShinixSZ, for Their Authorization.
+2. Undertale Yellow by Team UTY
+3. Undertale Last Breath by Team ULB
+4. Undertale by Team UNDERTALE
+
 （排序方式为随机）
 
 编程：TML（引擎提供）, LXZY（主编程）, Toby Fox（代码）, Shinix（代码）, ZNM-Official（引擎代码新增）, FDY（代码）...
