@@ -47,7 +47,7 @@ UT: Toby Fox, Temmie Chang等
 ### Disclaimer
 I made this *game* just for fun. Only for educational & studying use.
 
-Not authorized by Shinix, Viviiyon or Team ULB. In fact, I am trying hard to get a permission.
+Authorized by ShinixSZ (Finally)
 
 ~~（Well... I am not very good at English cuz first im chinese sec im only 13 *during 2025*... also im not good at communicating... cuz ive depression...?）~~
 
