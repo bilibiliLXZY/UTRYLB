@@ -44,7 +44,12 @@ UT: Toby Fox, Temmie Chang等
 
 ---
 
-### Disclaimer
+### Authorized by ShinixSZ
+![AuthorizeProof](/Authorized.png "Authorized")
+
+---
+
+#### Disclaimer
 I made this *game* just for fun. Only for educational & studying use.
 
 Authorized by ShinixSZ (Finally)
